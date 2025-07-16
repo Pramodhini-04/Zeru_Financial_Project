@@ -1,3 +1,4 @@
+
 # ZeruFinance Wallet Scoring
 
 This project provides an end-to-end pipeline for evaluating wallet creditworthiness using historical DeFi transaction data from the Aave V2 protocol.
